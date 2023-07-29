@@ -24,9 +24,3 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h3>Where to find me</h3>
-<p>
-  <a href="https://github.com/rvikunwar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  <a href="https://www.linkedin.com/in/ravikunwar" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://rvikunwar.github.io/" target="_blank"><img alt="Rvi kunwar" src="https://img.shields.io/badge/rvikunwar-%2312100E.svg?&style=for-the-badge&logo=website&logoColor=white" /></a>
-</p>
